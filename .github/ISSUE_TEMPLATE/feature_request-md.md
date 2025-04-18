@@ -1,5 +1,5 @@
 ---
-name: 'User Story '
+name: feature_request.md
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
